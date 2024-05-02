@@ -9,6 +9,7 @@ python ai.py
 ```
 
 ### Preview
-https://raw.githubusercontent.com/efelleto/ai-handtracking/main/assets/handtracking-preview.png?token=GHSAT0AAAAAACRTOSLKFK5MP6JJHOP4O3GCZRS5MPQ
+![image](https://github.com/efelleto/ai-handtracking/assets/142946087/03dde045-8a79-475a-a3f3-c4f78d6c1ad4)
+
 
 > **NOTE** Você precisa ter uma câmera conectada ao seu computador para o arquivo abrir corretamente
