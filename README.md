@@ -8,4 +8,4 @@ pip install -r requirements.txt
 python ai.py
 ```
 
-> **NOTE** Você precisa ter uma câmera conectada ao seu computador para o arquivo abrir corretamente
+> **OBS:** Você precisa ter uma câmera conectada ao seu computador para o arquivo abrir corretamente
